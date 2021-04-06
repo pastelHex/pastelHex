@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I mainly work in Java an Android (despite there is no much Android here).
+I mainly work in Java and Android (despite there is not much Android here).
 
 [![Ann's GitHub stats](https://github-readme-stats.vercel.app/api?username=pastelHex&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
