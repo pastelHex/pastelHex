@@ -1,4 +1,4 @@
-### Hi!
+### Hi! 
 <!--
 **pastelHex/pastelHex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This is my private github - thats why it's so empty :( 99,9% of code goes elsewhere.
+I mainly work in Java and  <img src="https://api.iconify.design/ant-design:android-filled.svg?color=%23d6ffe7" width="30px">
 
-I mainly work in Java and Android (despite there is not much Android here).
+
+ (despite there is not much Android here).
 
 [![Ann's GitHub stats](https://github-readme-stats.vercel.app/api?username=pastelHex&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
