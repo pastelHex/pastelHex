@@ -19,7 +19,7 @@ I mainly work in Java and  <img src="https://api.iconify.design/ant-design:andro
 
  (despite there is not much Android here).
 
-[![Ann's GitHub stats](https://github-readme-stats.vercel.app/api?username=pastelHex&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ann's GitHub stats](https://github-readme-stats.vercel.app/api?username=pastelHex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 oh man these stats are not exiting at all!
 
