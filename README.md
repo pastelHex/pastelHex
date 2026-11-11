@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 This is my private github - thats why it's so empty.
-I mainly work in Java and <img src="https://raw.githubusercontent.com/iconify/icon-sets/master/simple-icons/android.svg" width="30px">
-
- (despite there is not much Android here).
+I mainly work in Java and Android (despite there is not much Android here).
 
 [![Ann's GitHub stats](https://github-stats-extended.vercel.app/api?username=pastelHex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
