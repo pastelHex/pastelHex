@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 This is my private github - thats why it's so empty.
-I mainly work in Java and  <img src="https://api.iconify.design/ant-design:android-filled.svg?color=%23d6ffe7" width="30px">
+I mainly work in Java and  <img src="https://api.iconify.design/mdi:android.svg?color=%23d6ffe7" width="30px">
 
 
  (despite there is not much Android here).
